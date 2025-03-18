@@ -1,7 +1,7 @@
 # phase-1-code-challenge
 
-#Ramen Rating App
-This appllication is for reviewing types of foods in different restaurants.
+# Ramen Rating App
+This application is for reviewing types of foods in different restaurants.
 
 # Technologies Used
 JAVASCRIPT
